@@ -1,3 +1,3 @@
 # lab3_datavisualizationprac
 
-# GeoJSON visualisation practices 
+GeoJSON visualisation practices 
