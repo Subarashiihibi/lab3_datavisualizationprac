@@ -1,0 +1,341 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.692,40.652 ]
+    },
+    "properties": {
+    "X":-13880651.5,
+    "Y":4961147.184,
+    "OBJECTID_1":763,
+    "year":2010,
+    "second":39.32,
+    "depth":29.3,
+    "magnitude":6.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.961,40.412 ]
+    },
+    "properties": {
+    "X":-13910596.44,
+    "Y":4925995.584,
+    "OBJECTID_1":764,
+    "year":2010,
+    "second":21.97,
+    "depth":23.6,
+    "magnitude":5.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.808,32.663 ]
+    },
+    "properties": {
+    "X":-12891688.89,
+    "Y":3850658.436,
+    "OBJECTID_1":765,
+    "year":2010,
+    "second":14.88,
+    "depth":13.6,
+    "magnitude":5.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.801,32.64 ]
+    },
+    "properties": {
+    "X":-12890909.65,
+    "Y":3847617.525,
+    "OBJECTID_1":766,
+    "year":2010,
+    "second":5.4,
+    "depth":0,
+    "magnitude":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.806,32.675 ]
+    },
+    "properties": {
+    "X":-12891466.25,
+    "Y":3852245.309,
+    "OBJECTID_1":767,
+    "year":2010,
+    "second":11.02,
+    "depth":6,
+    "magnitude":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.773,32.616 ]
+    },
+    "properties": {
+    "X":-12887792.71,
+    "Y":3844445.235,
+    "OBJECTID_1":768,
+    "year":2010,
+    "second":58.8,
+    "depth":3.5,
+    "magnitude":5.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.921,32.7 ]
+    },
+    "properties": {
+    "X":-12904267.99,
+    "Y":3855551.977,
+    "OBJECTID_1":769,
+    "year":2010,
+    "second":58.48,
+    "depth":5.4,
+    "magnitude":5.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.489,33.42 ]
+    },
+    "properties": {
+    "X":-12967497.48,
+    "Y":3951186.199,
+    "OBJECTID_1":770,
+    "year":2010,
+    "second":33.53,
+    "depth":14,
+    "magnitude":5.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.79,41.143 ]
+    },
+    "properties": {
+    "X":-13780241.31,
+    "Y":5033457.811,
+    "OBJECTID_1":771,
+    "year":2012,
+    "second":2.77,
+    "depth":28.2,
+    "magnitude":5.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -125.528,40.385 ]
+    },
+    "properties": {
+    "X":-13973714.6,
+    "Y":4922048.881,
+    "OBJECTID_1":772,
+    "year":2012,
+    "second":1.69,
+    "depth":25,
+    "magnitude":5.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -125.331,40.412 ]
+    },
+    "properties": {
+    "X":-13951784.66,
+    "Y":4925995.579,
+    "OBJECTID_1":773,
+    "year":2012,
+    "second":21.25,
+    "depth":6.1,
+    "magnitude":5.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.546,33.019 ]
+    },
+    "properties": {
+    "X":-12862523.18,
+    "Y":3897826.808,
+    "OBJECTID_1":774,
+    "year":2012,
+    "second":22.9,
+    "depth":12.3,
+    "magnitude":5.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.549,33.024 ]
+    },
+    "properties": {
+    "X":-12862857.14,
+    "Y":3898490.637,
+    "OBJECTID_1":775,
+    "year":2012,
+    "second":58.2,
+    "depth":9,
+    "magnitude":5.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.856,36.311 ]
+    },
+    "properties": {
+    "X":-13453629.81,
+    "Y":4343499.98,
+    "OBJECTID_1":776,
+    "year":2012,
+    "second":9.5,
+    "depth":9.4,
+    "magnitude":5.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.053,38.028 ]
+    },
+    "properties": {
+    "X":-13141601.24,
+    "Y":4583382.769,
+    "OBJECTID_1":777,
+    "year":2013,
+    "second":14.27,
+    "depth":12.4,
+    "magnitude":5.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.0595,40.1918 ]
+    },
+    "properties": {
+    "X":-13476283.38,
+    "Y":4893854.16,
+    "OBJECTID_1":778,
+    "year":2013,
+    "second":8.1,
+    "depth":9.7,
+    "magnitude":5.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -125.1338,40.8287 ]
+    },
+    "properties": {
+    "X":-13929832.46,
+    "Y":4987108.413,
+    "OBJECTID_1":779,
+    "year":2014,
+    "second":13.4,
+    "depth":16.6,
+    "magnitude":6.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.917167,33.9325 ]
+    },
+    "properties": {
+    "X":-13126480.3,
+    "Y":4019742.668,
+    "OBJECTID_1":780,
+    "year":2014,
+    "second":42.31,
+    "depth":4.77,
+    "magnitude":5.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.312333,38.215167 ]
+    },
+    "properties": {
+    "X":-13615748.14,
+    "Y":4609867.101,
+    "OBJECTID_1":781,
+    "year":2014,
+    "second":44.07,
+    "depth":11.12,
+    "magnitude":6.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -125.774667,40.442 ]
+    },
+    "properties": {
+    "X":-14001173.42,
+    "Y":4930382.648,
+    "OBJECTID_1":782,
+    "year":2015,
+    "second":14.57,
+    "depth":23.9,
+    "magnitude":5.36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.606667,40.317833 ]
+    },
+    "properties": {
+    "X":-13871152.23,
+    "Y":4912237.73,
+    "OBJECTID_1":783,
+    "year":2015,
+    "second":53.71,
+    "depth":17.17,
+    "magnitude":5.73
+    }
+  }
+]
+}
